@@ -3,7 +3,7 @@
 
 
 ## Proyecto: Montacargas.
-![Tinkercad](./img/ArduinoParcial.png)
+![Tinkercad](./imagenes/ArduinoParcial.png)
 
 
 ## Descripción:
@@ -39,7 +39,7 @@ implementado.
 MarkDown.
 
 ## Requerimientos extras:
-![Tinkercad](./img/Requerimientos_Extras.png)
+![Tinkercad](./imagenes/Requerimientos_Extras.png)
 
 
 ~~~ C++ (lenguaje en el que esta escrito)
@@ -312,7 +312,7 @@ void mostrar_piso()
 }
 ~~~
 ## Diagrama esquemático
-![Tinkercad](./img/Diagrama.png)
+![Tinkercad](./imagenes/Diagrama.png)
 
 ## Link al proyecto
 - [Proyecto](https://www.tinkercad.com/things/lDVPcK2T1Oe-parcial-montacargas/editel?sharecode=m5YdcUIEesjfEMrPtad4t1XHhLn0WgO6Dw2lbV8aZVo)
